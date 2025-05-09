@@ -25,6 +25,7 @@ zshzoo/macos conditional:is-macos
 belak/zsh-utils path:utility
 romkatv/zsh-bench kind:path
 ohmyzsh/ohmyzsh path:plugins/extract
+z-shell/zsh-eza
 
 # Other Fish-like features
 zdharma-continuum/fast-syntax-highlighting  # Syntax highlighting
